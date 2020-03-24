@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mango-admin" />
+        <module name="mango-backup" />
+        <module name="mango-common" />
+        <module name="mango-consumer" />
+        <module name="mango-core" />
+        <module name="mango-monitor" />
+        <module name="mango-producer" />
+        <module name="mango-producer2" />
+        <module name="mango-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mango-admin" target="1.8" />
+      <module name="mango-backup" target="1.8" />
+      <module name="mango-common" target="1.8" />
+      <module name="mango-consumer" target="1.8" />
+      <module name="mango-core" target="1.8" />
+      <module name="mango-monitor" target="1.8" />
+      <module name="mango-pom" target="1.8" />
+      <module name="mango-producer" target="1.8" />
+      <module name="mango-producer2" target="1.8" />
+      <module name="mango-zuul" target="1.8" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mango-admin" options="" />
+      <module name="mango-common" options="" />
+      <module name="mango-core" options="" />
+    </option>
+  </component>
+</project>

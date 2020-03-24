@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mango-admin.iml" filepath="$PROJECT_DIR$/mango-admin.iml" />
+      <module fileurl="file://E:/mango/mango-backup.iml" filepath="E:/mango/mango-backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-common.iml" filepath="$PROJECT_DIR$/mango-common.iml" />
+      <module fileurl="file://E:/mango/mango-consumer.iml" filepath="E:/mango/mango-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-core.iml" filepath="$PROJECT_DIR$/mango-core.iml" />
+      <module fileurl="file://E:/mango/mango-monitor.iml" filepath="E:/mango/mango-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-pom.iml" filepath="$PROJECT_DIR$/mango-pom.iml" />
+      <module fileurl="file://E:/mango/mango-producer.iml" filepath="E:/mango/mango-producer.iml" />
+      <module fileurl="file://E:/mango/mango-producer2.iml" filepath="E:/mango/mango-producer2.iml" />
+      <module fileurl="file://E:/mango/mango-zuul.iml" filepath="E:/mango/mango-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a59a5ba-d543-4483-9033-5a42e23c1d1a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/mango-core/target/" />
+    <ignored path="$PROJECT_DIR$/mango-common/target/" />
+    <ignored path="$PROJECT_DIR$/mango-admin/target/" />
+    <ignored path="$PROJECT_DIR$/mango-pom/target/" />
+    <ignored path="$PROJECT_DIR$/mango-backup/target/" />
+    <ignored path="$PROJECT_DIR$/mango-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/mango-producer/target/" />
+    <ignored path="$PROJECT_DIR$/mango-producer2/target/" />
+    <ignored path="$PROJECT_DIR$/mango-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/mango-zuul/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mango$MangoBackupApplication.ic" NAME="MangoBackupApplication Coverage Results" MODIFIED="1566182639680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="0652c120-9d0b-4a2a-ab4a-b36741c3a22b" />
+    </checked>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1225945008">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1186842913">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.77" value="2" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.80" value="2" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="105" />
+          <entry key="md" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="sql" value="3" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="53" />
+          <entry key="yml" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="105" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="54" />
+          <entry key="YAML" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4942" />
+          <entry key="properties" value="15" />
+          <entry key="txt" value="20" />
+          <entry key="xml" value="1568" />
+          <entry key="yml" value="1425" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4942" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Properties" value="15" />
+          <entry key="XML" value="1568" />
+          <entry key="YAML" value="1425" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/impl/SysDictServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/controller/SysUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1986">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/MangoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mango-admin/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1313">
+              <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/security/GrantedAuthorityImpl.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/controller/SysDictController.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/controller/SysLoginController.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/datasource/BackupDataSourceProperties.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/service/MysqlBackupService.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/service/impl/MysqlBackupServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mango-common/src/main/java/com/louis/mangocommon/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/controller/MySqlBackupController.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/util/MySqlBackupRestoreUtils.java" />
+        <option value="$PROJECT_DIR$/mango-common/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-monitor/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-monitor/src/main/java/com/louis/mango/monitor/MangoMonitorApplication.java" />
+        <option value="$PROJECT_DIR$/mango-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-backup/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com/louis/mango/backup/MangoBackupApplication.java" />
+        <option value="$PROJECT_DIR$/mango-backup/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-producer/src/main/java/com/louis/mango/producer/MangoProducerApplication.java" />
+        <option value="$PROJECT_DIR$/mango-producer/src/main/java/com/louis/mango/producer/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/mango-producer2/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-producer2/src/main/java/com/louis/mango/producer/MangoProducerApplication.java" />
+        <option value="$PROJECT_DIR$/mango-producer2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/ServiceController.java" />
+        <option value="$PROJECT_DIR$/mango-producer2/src/main/java/com/louis/mango/producer/controller/CallHelloController.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/MangoApplication.java" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/CallHelloController.java" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/RibbonHelloController.java" />
+        <option value="$PROJECT_DIR$/mango-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/MangoConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/FeignHelloController.java" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/service/MangoProducerService.java" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/MangoProducerHystrix.java" />
+        <option value="$PROJECT_DIR$/mango-pom/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/louis/mango/zuul/MangoZuulApplication.java" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/louis/mango/zuul/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/louis/mango/zuul/MyFilter.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/impl/SysMenuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mango-core/src/main/java/com/louis/mangocore/page/PageResult.java" />
+        <option value="$PROJECT_DIR$/mango-core/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-core/src/main/java/com/louis/mangocore/service/CurdService.java" />
+        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysDictMapper.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dedicatedModuleDir" value="E:\mango" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="mango" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\mango" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567562743442" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35097492" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.louis.mango.admin.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mango\mango-common\src\main\java\com\louis\mangocommon\utils" />
+      <recent name="D:\mango" />
+      <recent name="E:\mango\mango-admin\src\main\java\com\louis\mango\admin" />
+      <recent name="E:\mango\mango-admin\src\main\java\com\louis\mango\admin\security" />
+      <recent name="E:\mango\mango-admin\src\main\java\com\louis\mango\admin\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MangoConsumerApplication">
+    <configuration name="MangoMonitorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.louis.mango.monitor.MangoMonitorApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.monitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name=".mvn3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name=".mvn3" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mango-common [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/mango-common" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mango-core [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/mango-core" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="MangoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.admin.MangoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoBackupApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-backup" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.backup.MangoBackupApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mangocommon.MangoCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mangoconsumer.MangoConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mangocore.MangoCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.monitor.MangoMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoPomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-pom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mangopom.MangoPomApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoProducerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango-producer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.producer.MangoProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.producer.MangoProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.zuul.MangoZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MangoCommonApplication" />
+      <item itemvalue="Spring Boot.MangoCoreApplication" />
+      <item itemvalue="Spring Boot.MangoPomApplication" />
+      <item itemvalue="Spring Boot.MangoBackupApplication" />
+      <item itemvalue="Spring Boot.MangoMonitorApplication" />
+      <item itemvalue="Spring Boot.MangoProducerApplication" />
+      <item itemvalue="Spring Boot.MangoConsumerApplication" />
+      <item itemvalue="Spring Boot.MangoZuulApplication" />
+      <item itemvalue="Spring Boot.MangoApplication" />
+      <item itemvalue="Maven.mango-common [package]" />
+      <item itemvalue="Maven.mango-core [package]" />
+      <item itemvalue="Spring Boot.MangoProducerApplication (1)" />
+      <item itemvalue="Application.MangoMonitorApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MangoProducerApplication (1)" />
+        <item itemvalue="Spring Boot.MangoApplication" />
+        <item itemvalue="Application.MangoMonitorApplication" />
+        <item itemvalue="Maven.mango-core [package]" />
+        <item itemvalue="Maven.mango-common [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a59a5ba-d543-4483-9033-5a42e23c1d1a" name="Default Changelist" comment="" />
+      <created>1564645383314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564645383314</updated>
+      <workItem from="1564645384863" duration="1977000" />
+      <workItem from="1564647457613" duration="355000" />
+      <workItem from="1564647827973" duration="91000" />
+      <workItem from="1564647965951" duration="230000" />
+      <workItem from="1564648205510" duration="4000" />
+      <workItem from="1564648335472" duration="86000" />
+      <workItem from="1564648429584" duration="158000" />
+      <workItem from="1564648596352" duration="2918000" />
+      <workItem from="1564707852248" duration="9503000" />
+      <workItem from="1564967290641" duration="5882000" />
+      <workItem from="1565003255492" duration="1583000" />
+      <workItem from="1565059919833" duration="14788000" />
+      <workItem from="1565096239076" duration="8042000" />
+      <workItem from="1565157064462" duration="16376000" />
+      <workItem from="1565244717595" duration="15230000" />
+      <workItem from="1565338747692" duration="55000" />
+      <workItem from="1565338820684" duration="860000" />
+      <workItem from="1565339694919" duration="606000" />
+      <workItem from="1565358979299" duration="1548000" />
+      <workItem from="1565417661701" duration="1997000" />
+      <workItem from="1565419720553" duration="355000" />
+      <workItem from="1565420130137" duration="7054000" />
+      <workItem from="1565427803005" duration="1276000" />
+      <workItem from="1565504552214" duration="14142000" />
+      <workItem from="1565609399785" duration="5000" />
+      <workItem from="1565609634688" duration="2374000" />
+      <workItem from="1565693754430" duration="1213000" />
+      <workItem from="1565695292562" duration="8292000" />
+      <workItem from="1565953742556" duration="3000" />
+      <workItem from="1566040472480" duration="751000" />
+      <workItem from="1566099783521" duration="1078000" />
+      <workItem from="1566108744383" duration="5739000" />
+      <workItem from="1566114724540" duration="7863000" />
+      <workItem from="1566173542809" duration="6770000" />
+      <workItem from="1566180560772" duration="4061000" />
+      <workItem from="1566212106158" duration="644000" />
+      <workItem from="1566260353456" duration="11197000" />
+      <workItem from="1566272070219" duration="1454000" />
+      <workItem from="1566346547942" duration="522000" />
+      <workItem from="1566347101014" duration="40000" />
+      <workItem from="1566347158065" duration="18000" />
+      <workItem from="1566347348458" duration="401000" />
+      <workItem from="1566347900540" duration="3437000" />
+      <workItem from="1566441426893" duration="5041000" />
+      <workItem from="1566521142726" duration="10336000" />
+      <workItem from="1566610380557" duration="595000" />
+      <workItem from="1566694421691" duration="715000" />
+      <workItem from="1566700207900" duration="1470000" />
+      <workItem from="1567042655319" duration="36000" />
+      <workItem from="1567042703952" duration="1032000" />
+      <workItem from="1567071154127" duration="176000" />
+      <workItem from="1567071351516" duration="1175000" />
+      <workItem from="1567129814373" duration="1561000" />
+      <workItem from="1567556526284" duration="4051000" />
+      <workItem from="1567562937383" duration="3680000" />
+      <workItem from="1568118832557" duration="221000" />
+      <workItem from="1568119354226" duration="796000" />
+      <workItem from="1568295125936" duration="676000" />
+      <workItem from="1568337093019" duration="837000" />
+      <workItem from="1573189659147" duration="958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="194334000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20225322" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="设计器" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85622317" weight="0.27314815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14377682" side_tool="true" weight="0.22573364" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49892703" weight="0.072463766" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5887681" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.60609484" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32971016" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="调试" order="15" weight="0.32971016" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.020386266" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32977098" />
+      <window_info anchor="right" id="调色板" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.06759657" />
+      <window_info anchor="right" id="Database" order="11" weight="0.024427481" />
+      <window_info anchor="right" id="Redis Servers" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mango-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="72" column="54" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/FeignHelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-producer/src/main/java/com/louis/mango/producer/MangoProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/controller/MangoProducerHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-pom/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/java/com/louis/mango/zuul/MangoZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/java/com/louis/mango/zuul/MyFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.12/hystrix-core-1.5.12-sources.jar!/com/netflix/hystrix/HystrixCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9180">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/java/com/louis/mango/zuul/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="153" column="13" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/dao/SysMenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-monitor/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/java/com/louis/mangoconsumer/service/MangoProducerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-monitor/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-monitor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/数据库脚本/mango.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/constant/SysConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/dao/SysConfigMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysDict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-core/src/main/java/com/louis/mangocore/page/MybatisPageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-core/src/main/java/com/louis/mangocore/page/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-core/src/main/java/com/louis/mangocore/page/PageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-core/src/main/java/com/louis/mangocore/service/CurdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/SysMenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/impl/SysMenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/SysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2972">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/SysDictService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/controller/SysDictController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysRoleMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysRoleDeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysLoginLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysDeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysDictMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/service/impl/SysDictServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1313">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/MangoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1986">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35097492" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35097492" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35097492" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mango-pom</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35097492" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mango-admin-0.0.1-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35097492" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="E:\mango\mango-admin" />
+  </component>
+</project>

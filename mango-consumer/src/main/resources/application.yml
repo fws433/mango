@@ -1,0 +1,28 @@
+server:
+  port: 8005
+spring:
+  application:
+    name: mango-consumer
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        serviceName: ${spring.application.name}
+  boot:
+    admin:
+      client:
+        url: "http://localhost:8080"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: ALWAYS
+feign:
+  hystrix:
+    enabled: true
+
